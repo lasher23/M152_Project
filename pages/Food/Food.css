@@ -70,3 +70,8 @@
         margin: 0px;
     }
 }
+
+nav > a > img {
+    width: 64px;
+    height: 64px;
+}
