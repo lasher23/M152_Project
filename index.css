@@ -1,0 +1,23 @@
+.row > a > div > img {
+    width: 64px;
+    height: 64px;
+    margin: 0 auto;
+    display: block;
+}
+
+.row > a > div {
+    margin: 10px 10px 10px 10px;
+    background-color: #eceff1;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.row > a > div > h1 {
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.row > a > div > audio {
+    display: block;
+    margin: 0 auto;
+}
