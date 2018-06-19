@@ -19,11 +19,9 @@
 }
 
 .box > div > img {
-    width: 64px;
-    height: 64px;
+    width: 100%;
     float: left;
     display: block;
-    flex: 0 0 64px;
 }
 
 .box > div > div {
